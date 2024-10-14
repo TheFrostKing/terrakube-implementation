@@ -1,3 +1,7 @@
+# The Architecture
+![sue-project-archi](https://github.com/user-attachments/assets/fd4f638d-45af-4f0f-8c9d-29d13fb1548d)
+
+
 
 # Project Setup Guide
 
